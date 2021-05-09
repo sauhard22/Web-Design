@@ -2,7 +2,7 @@
 
 Made With React
 
-### 'npm install'
+### `npm install`
 
 This will install all the dependencies required for the template.
 
