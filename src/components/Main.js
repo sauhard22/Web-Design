@@ -19,7 +19,7 @@ const Container = styled.div`
 h1 {
     font-family: Roboto;
     font-weight: 900;
-    font-size: 65px;
+    font-size: 80px;
     color: #343434;
     
     @media(max-width: 900px){

@@ -11,14 +11,14 @@ const input = ({type, placeholder}) => {
 }
 
 const StyledInput = styled.input`
-    width: 200px;
+    width: 80%;
     max-width: 350;
     min-width: 250;
-    height: 38px;
+    height: 50px;
     border: none;
-    margin: 0.5rem 0;
+    margin: 0.9rem 0;
     background-color: #f5f5f5;
-    box-shadow: 0px 14px 20px -10px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 14px 20px -15px rgba(0, 0, 0, 0.25);
     border-radius: 8px;
     padding: 0 1rem;
     transition: all 0.2s ease-in;
@@ -42,12 +42,17 @@ const Status = styled.div`
     ${StyledInput}:invalid + & {
         background-color: #fe2f75;
     }
+
+    ${StyledInput}:valid + & {
+        background-color: #70ed89;
+    }
 `
 
 const Container = styled.div`
     display:flex;
     justify-content:center; 
     align-items:center;
+    width: 400px;
 `
 
 export default input
