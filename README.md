@@ -23,7 +23,7 @@ Web-Design\src\components ----> This folder had all the components of the templa
 `Main.js`
 `Input.js`
 
-You can edit their respective properties using [https://styled-components.com/](xhttps://styled-components.com/).
+You can edit their respective properties using [Styled-Components](https://styled-components.com/).
 
 
 
