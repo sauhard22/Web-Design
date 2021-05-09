@@ -1,6 +1,6 @@
 # SignUp Template
 
-Made With React and using [https://github.com/styled-components/styled-components](Styled-Components)
+Made With React and using [Styled-Components](https://github.com/styled-components/styled-components)
 
 ### `npm install`
 
