@@ -13,7 +13,7 @@ const Sidebar = () => {
                 </h3>
             </LogoWrapper>
                 <Form>
-                    <h3>Sign In</h3>
+                    <h3>Sign Un</h3>
                     <Input placeholder = "Full Name"/>
                     <Input placeholder = "Email" type="email"/>
                     <Input placeholder = "Password" type="password"/>
@@ -25,7 +25,7 @@ const Sidebar = () => {
                    By signing up, I agree to the Privacy Policy <br/>and Terms of Service
                    </Terms> 
                    <h4>
-                    Already have an account? <span>Sign Up</span>
+                    Already have an account? <span>Sign In</span>
                    </h4>
                 </div>
         </Container>
