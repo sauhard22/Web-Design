@@ -9,7 +9,7 @@ const Sidebar = () => {
             <LogoWrapper>
                 <img src={logo} />
                 <h3>
-                    Eli <span>Codes</span>
+                    TW <span>Mark</span>
                 </h3>
             </LogoWrapper>
                 <Form>
